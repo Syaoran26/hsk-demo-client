@@ -1,6 +1,6 @@
 import { RouteObject } from 'react-router';
 import { routes } from '@/config';
-import MainLayout from '@/layouts/MainLayout';
+import MainLayout from '@/layouts/main-layout';
 import Home from '@/pages/Home';
 
 const mainRouter: RouteObject[] = [
